@@ -1,0 +1,40 @@
+body{
+    font-size: 16px;
+  }
+  h1 {
+    width: 65px;
+    color: orange;
+    font-family: sans-serif, Arial;
+  }
+  ul {
+    background-color: green;
+  }
+  .fundoPA {
+    background-color: aqua;
+  }
+  p {
+    font-weight: 600;
+    font-size: 3em;
+  }
+  .lista {
+    font-size: 10px;
+  }
+  #l1 {
+    background-color: yellow;
+  }
+  #l2 {
+    background-color: pink;
+  }
+  #l3 {
+    background-color: purple;
+  }
+  #l4 {
+    background-color: brown;
+  }
+  #l5 {
+    background-color: red;
+  }
+  #l6 {
+    background-color: orange;
+  }
+ 
